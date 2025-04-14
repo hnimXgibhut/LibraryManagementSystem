@@ -70,7 +70,7 @@ public class FileHandler {
                     books.add(new PrintedBook(title, author, genre, isbn, isAvailable, dueDate, pages));
                 } else if (type.equals("Ebook")) {
                     String fileFormat = parts[7];
-                    books.add(new EBook(title, author, genre, isbn, isAvailable, dueDate, fileFormat));
+                    books.add(new Ebook(title, author, genre, isbn, isAvailable, dueDate, fileFormat));
                 }
             }
         } catch (IOException e) {
