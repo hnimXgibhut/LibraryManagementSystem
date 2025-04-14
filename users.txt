@@ -1,0 +1,3 @@
+admin,an123,b2306655
+librarian,minh123,b2306675
+reader,user1,password123

@@ -1,0 +1,2 @@
+PrintedBook,The Hobbit,J.R.R. Tolkien,Fantasy,ISBN001,true,,310
+PrintedBook,Mat Biec,Nguyen Nhat Anh,Romance,ISBN003,true,,250
