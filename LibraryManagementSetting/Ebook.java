@@ -11,7 +11,7 @@ public class Ebook extends Book {
         return fileformat;
     }
 
-    public void setFileFormat(int fileformat) {
+    public void setFileFormat(String fileformat) {
         this.fileformat = fileformat;
     }
 
